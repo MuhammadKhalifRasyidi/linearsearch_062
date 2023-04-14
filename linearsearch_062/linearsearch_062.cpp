@@ -55,3 +55,9 @@ void linearsearch() {
 		cin >> ch;
 	} while ((ch == 'y') || (ch == 'Y'));
 }
+
+int main() {
+	input();
+	linearsearch();
+	return 0;
+}
