@@ -60,4 +60,4 @@ int main() {
 	input();
 	linearsearch();
 	return 0;
-}
+} 
